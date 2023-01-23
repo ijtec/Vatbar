@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300;1,400;1,500&display=swap');
+
+
+.brd{
+    position: relative;
+    /* top: 100px;
+    left: 40px;
+    right: 350px; */
+     
+}
+p{
+    position: absolute;
+    top: 150px;
+   font-weight: 300;
+   font-style: italic; 
+   font-size: 20px;
+   color: #000000; 
+   margin-left: 15rem;
+   margin-right: 15rem;
+   line-height: 2;
+}
+
+p span{
+    display: block;
+}
+
+
+h2{
+    position: absolute;
+    top: 300px;
+    right: 600px;
+    color: #1FBE54;
+
+    
+    
+}
+
+.brd img:first-child{
+    /* width: 20%;
+    height: 2%; */
+    color: #C4F4D7;
+    
+}
+.brd-img i{
+    margin-right:1rem;
+    /* width: 100%; */
+    /* position: absolute;
+    right: 0px; */
+}
+.brd-img{
+    position: absolute;
+    top: 220px;  
+    right: 250px;
+    font-weight: 700;
+    font-size: 2rem;
+    /* width: 20px; */
+}
+.fa-arrow-right{
+    color: #04E761;
+
+}
+
+.fa-arrow-left{
+    color: #BFBFBF59;
+}
